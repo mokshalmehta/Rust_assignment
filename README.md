@@ -39,12 +39,16 @@ my_project
 ```
 
 ### 2. Running the Programs
+```
+cargo new my_project
+```
 
 #### a. Navigate to the Project Directory
 
 ```
 cd my_project
 ```
+then copy all the files from this repo to your local machine
 
 #### b. Compile the Rust Files
 
@@ -96,5 +100,5 @@ Below is a list of the algorithms implemented in this assignment along with thei
 11. Merge Two Sorted Arrays: `q11_merge2arrays`
 12. Maximum Subarray Sum: `q12_max_subarray_sum`
 
-Each program is located in the `src` directory and can be run using the instructions provided above.
+Each program is located in the `src` directory in my_project directory and can be run using the instructions provided above.
 
